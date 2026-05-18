@@ -1,2 +1,3 @@
-# day-1-notebooks
-Notebooks for day 1 of the Introduction to Geodynamic Modelling course, 2024
+# Day 1 notebooks
+
+Notebooks for day 1 of the 2026 Introduction to Geodynamic Modelling course
